@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+c:\users\17zbr\source\repos\unrealcourse\section_02\bullcowgame\fbullcowgame.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int32', possible loss of data
+  main.cpp
+  Generating Code...
+  BullCowGame.vcxproj -> C:\Users\17zbr\source\repos\UnrealCourse\Section_02\x64\Debug\BullCowGame.exe
